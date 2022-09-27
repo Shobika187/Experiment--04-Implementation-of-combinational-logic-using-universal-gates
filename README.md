@@ -70,10 +70,13 @@ endmodule
 ## Combination 1:
 ![Screenshot (84)](https://user-images.githubusercontent.com/94508142/192529134-ec0cc511-aade-475a-8335-fdc6ca3232e9.png)
 
-## Combination 2
-![Screenshot (84)](https://user-images.githubusercontent.com/94508142/192529148-743aa6a4-ad97-4b40-95a4-8fd9daf11978.png)
+## Combination 2:
+![Screenshot (85)](https://user-images.githubusercontent.com/94508142/192531152-d3a484d3-f1bf-404b-94de-5d61154c7efb.png)
 ## Truth Table:
+## Combination 1:
 ![Screenshot (83)](https://user-images.githubusercontent.com/94508142/192529627-9168da78-2e41-4743-8301-c2b27bc2fb5f.png)
+## Combination 2:
+![Screenshot (86)](https://user-images.githubusercontent.com/94508142/192531749-712b6f1a-ae05-4ae0-8df3-d213802978c4.png)
 
 
 ## Result:
